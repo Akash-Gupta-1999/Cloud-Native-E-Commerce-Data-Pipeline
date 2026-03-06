@@ -1,0 +1,12 @@
+https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
+
+
+https://filess.io
+
+
+
+https://learn.microsoft.com/en-us/azure/databricks/connect/storage/tutorial-azure-storage
+
+
+https://learn.microsoft.com/en-us/azure/synapse-analytics/sql/develop-tables-cetas
