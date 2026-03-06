@@ -9,8 +9,8 @@ from airflow.providers.google.cloud.hooks.gcs import GCSHook
 from airflow.providers.google.cloud.transfers.mysql_to_gcs import MySQLToGCSOperator
 
 # --- CONFIGURATION ---
-METADATA_URL = "https://github.com/Akash-Gupta-1999/mayank953/BigDataProjects/refs/heads/main/Project-Brazillian%20Ecommerce/ForEachInput.json"
-ABSOLUTE_URL = "https://raw.githubusercontent.com/mayank953/"
+METADATA_URL = "https://github.com/Akash-Gupta-1999/ForEachInput.json"
+ABSOLUTE_URL = "https://github.com/Akash-Gupta-1999/"
 GCS_BUCKET_NAME = "otis-dataset-project"
 
 default_args = {
